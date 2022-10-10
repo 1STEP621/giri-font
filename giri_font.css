@@ -5,10 +5,10 @@
 
 #typography {
   font-family: "giri_font";
-  font-size: 100px;
   line-height: 1em;
   text-align: center;
   user-select: none;
+  font-size: 60px;
 }
 
 #test-area {

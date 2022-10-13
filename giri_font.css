@@ -1,14 +1,6 @@
 @font-face {
-  font-family: "GIRI_font";
-  src: url(giri_font.ttf) format("truetype");
-}
-
-#typography {
   font-family: "giri_font";
-  line-height: 1em;
-  text-align: center;
-  user-select: none;
-  font-size: 60px;
+  src: url(giri_font.ttf) format("truetype");
 }
 
 #test-area {
